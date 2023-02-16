@@ -1,5 +1,6 @@
 {
   "name": "calculator",
+  "homepage":".",
   "version": "1.0.0",
   "description": "carbon footprint calculator",
   "author": "458DP01",
