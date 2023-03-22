@@ -8,3 +8,5 @@ To use this calculator:
 2. Select the product and fill the details.
 3. You can edit or remove items in the list.
 4. Click "Calculate" to get the result on selected items.
+
+You can also access the online version of this calculator: https://carbon-footprint-calculator.onrender.com/#/
